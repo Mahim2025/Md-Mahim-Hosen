@@ -1,0 +1,28 @@
+
+
+
+/* share styles */
+
+
+
+
+/* navbar style */
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.options{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 50px;
+}
+
+.options li a{
+    text-decoration: none;
+}
+.options li{
+    list-style: none;
+}
+
